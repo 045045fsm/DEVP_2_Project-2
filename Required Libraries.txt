@@ -1,7 +1,5 @@
 # REQUIRED LIBRARIES
- 
 Pandas
-
 Streamlit
-
 Plotly_express
+Matplotlib
