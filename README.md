@@ -5,9 +5,9 @@
 4. Running the third code will generate a number
 5. Copy that number
 6. Next, run the 4th code
-# your url is: https://violet-hairs-vanish.loca.lt
-7. A line similar to this will be seen inside the 4th code
-8. Open the website seen
-9. A password box will appper
-10. Paste the number copied from code 3 and run
-11. The Dashboard will open in Streamlit
+7.  # your url is: https://violet-hairs-vanish.loca.lt
+8. A line similar to this will be seen inside the 4th code
+9. Open the website seen
+10. A password box will appper
+11. Paste the number copied from code 3 and run
+12. The Dashboard will open in Streamlit
